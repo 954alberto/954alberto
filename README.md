@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-Welcome to my portfolio! I am passionate about coding in Rust, especially for blockchain projects.
+I am passionate about coding in Rust, especially for blockchain projects.
 
 I love creating efficient and secure applications using Rust, focusing on blockchain technology and decentralized solutions.
 
